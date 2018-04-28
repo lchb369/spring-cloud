@@ -1,0 +1,7 @@
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/result/UserRow.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/params/UserParams.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/result/UserResult.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/result/UserDetailResult.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/params/UserQueryParams.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/dto/result/JsonResultVo.java
+/Users/changbinliu/spring-cloud-lab/user-service/user-service-api/src/main/java/com/springcloud/lab/api/UserServiceApi.java

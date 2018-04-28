@@ -1,0 +1,8 @@
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/result/JsonResultVo.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/result/FeedRowResult.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/result/FeedDetailResult.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/params/FeedRequest.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/result/FeedTagResult.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/result/FeedResult.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/FeedServiceApi.java
+/Users/changbinliu/spring-cloud-lab/feed-service/feed-service-api/src/main/java/com/springcloud/lab/api/dto/params/FeedQueryRequest.java

@@ -1,0 +1,7 @@
+com/springcloud/lab/api/dto/params/UserParams.class
+com/springcloud/lab/api/dto/params/UserQueryParams.class
+com/springcloud/lab/api/dto/result/UserRow.class
+com/springcloud/lab/api/dto/result/JsonResultVo.class
+com/springcloud/lab/api/UserServiceApi.class
+com/springcloud/lab/api/dto/result/UserDetailResult.class
+com/springcloud/lab/api/dto/result/UserResult.class

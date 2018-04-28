@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/search-service.iml" filepath="$PROJECT_DIR$/search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service-api/search-service-api.iml" filepath="$PROJECT_DIR$/search-service-api/search-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service-core/search-service-core.iml" filepath="$PROJECT_DIR$/search-service-core/search-service-core.iml" />
+    </modules>
+  </component>
+</project>

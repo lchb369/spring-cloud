@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user-service.iml" filepath="$PROJECT_DIR$/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/user-service-api/user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-core/user-service-core.iml" filepath="$PROJECT_DIR$/user-service-core/user-service-core.iml" />
+    </modules>
+  </component>
+</project>
